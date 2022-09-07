@@ -1,1 +1,1 @@
-Display the result of breath to the power love
+The two type of people in the world
