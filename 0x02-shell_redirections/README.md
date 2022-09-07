@@ -1,1 +1,1 @@
-Make your directories count
+Make your dirctories count
