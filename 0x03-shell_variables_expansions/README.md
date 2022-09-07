@@ -1,1 +1,1 @@
-True knowledge
+TRUE KNOWLEDGE
