@@ -1,1 +1,1 @@
-The two type of people in the world
+Combination of two letters
