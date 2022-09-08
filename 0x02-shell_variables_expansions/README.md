@@ -1,1 +1,1 @@
-Display result of breath to the power love
+Count directories in PATH
