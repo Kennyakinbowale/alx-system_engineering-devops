@@ -1,1 +1,1 @@
-PATH
+Proponent of a strong encryption
