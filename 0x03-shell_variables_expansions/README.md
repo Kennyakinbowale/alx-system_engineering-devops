@@ -1,1 +1,1 @@
-Count the number of directories in the PATH
+count the number of directories
