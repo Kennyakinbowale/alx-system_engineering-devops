@@ -1,1 +1,1 @@
-Proponent of strong encryption
+No of directories in PATH
