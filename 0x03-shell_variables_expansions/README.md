@@ -1,1 +1,1 @@
-The egg of the brood
+instant star
