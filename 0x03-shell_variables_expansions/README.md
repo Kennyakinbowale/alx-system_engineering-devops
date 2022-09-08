@@ -1,1 +1,1 @@
-instant star
+Count the number of directories in the PATH
