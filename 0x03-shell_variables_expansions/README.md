@@ -1,1 +1,1 @@
-instant star
+Proponent of strong encryption
